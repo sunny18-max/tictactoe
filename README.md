@@ -2,7 +2,6 @@
 
 A modern, responsive implementation of the classic Tic-Tac-Toe game with sleek animations and intuitive gameplay. Built with HTML, CSS, and JavaScript.
 
-![Tic-Tac-Toe Screenshot](screenshot.png) *(Replace with your actual screenshot)*
 
 ## Features
 
